@@ -1,0 +1,31 @@
+{
+  "name": "vuexpress-first-page",
+  "version": "1.0.0",
+  "description": "Simple project with express server, index page and some Vue js components.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node -r esm src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjtyCamp/vuexpress-first-page.git"
+  },
+  "keywords": [
+    "ajtycamp",
+    "vue",
+    "express",
+    "node"
+  ],
+  "author": "AjTyCamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjtyCamp/vuexpress-first-page/issues"
+  },
+  "homepage": "https://github.com/AjtyCamp/vuexpress-first-page#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  }
+}
