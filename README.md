@@ -25,13 +25,13 @@ In the src/public folder create new *composition.html* file and rewrite [Composi
 
 ## Part Two
 
-Part one was about "first look" and tender touch. Now we apply our knowedge to simple form page.
+Part one was about "first look" to VUE js framework. Now we will apply our knowledge to create simple form page.
 
 *Into index.html file add link to form.html file.*
 
 
 
-Create form with this imputs:
+Create form with those imputs:
 
 - Name
 - Surname
@@ -41,13 +41,13 @@ Create form with this imputs:
 
 
 
-On top of form page will be info text:
+On top of form page create info text with:
 
 "This is registration to extraordinary squad."
 
 
 
-On bottom of form will be button with text: **Become Extra**.
+On bottom of form create button with text: **Become Extra**.
 
 
 
@@ -55,11 +55,11 @@ On button press form show message:
 
 #### If all items of form are filled and age is up 18
 
-*Dear **John** **Doe**, and of course your lovely pet **Alien**. Welcome to extraordinary squad. We send you message on your mail **my@mail.com**.*
+*Dear **John** **Doe**, and of course your lovely pet **Alien**. Welcome to extraordinary squad. We send you message to your mail **my@mail.com**.*
 
 #### If all items of form are filled and age is under 18
 
-*We are realy sorry. You are to young to die. Please wait (18-age) and we'll be happy for your squad becamming*.
+*We are really sorry. You are to young to die. Please wait (18-age) and we'll be happy to welcome you to extraordinary squad*.
 
 #### If all items of form are not filled
 
