@@ -5,7 +5,7 @@ Simple project with express server, index page and some Vue js components.
 
 At the beginning we take official VUE JS Introduction: https://vuejs.org/v2/guide/ .
 
-*Into index.html file add link to all new html files, you add to project.*
+*Into index.html file add link to all new html files, you add to project. Also into every html file add link to home page (index.html)*
 
 ### 1.
 
